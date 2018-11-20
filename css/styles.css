@@ -8,6 +8,7 @@ h1{text-align: center;}
   text-align: center;
   padding-top: 10%;
   color: #fff;
+  width:500px
 }
 input{
   height:50px;
@@ -15,4 +16,11 @@ input{
   text-align: center;
   background: black;
   color:#fff;
+  border:none;
+  font-size: 20px;
+  outline:none;
+}
+.fahrenheit{
+  border-top: 1px solid #fff;
+  border-bottom:1px solid #fff;
 }
