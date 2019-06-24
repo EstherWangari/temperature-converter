@@ -24,3 +24,24 @@ input{
   border-top: 1px solid #fff;
   border-bottom:1px solid #fff;
 }
+
+@media only screen and (max-width: 600px) {
+
+  #whole{
+    padding-top: 20%;
+    width:unset
+  }
+  h1{
+    padding-top:30px
+  }
+  input {
+    height: 70px;
+    width: 350px;
+    text-align: center;
+    background: black;
+    color: #fff;
+    border: none;
+    font-size: 40px;
+    outline: none;
+}
+}
