@@ -43,5 +43,10 @@ input{
     border: none;
     font-size: 40px;
     outline: none;
-}
+  }
+  .fahrenheit {
+    border-top:unset;
+    border-bottom:unset;
+  }
+
 }
